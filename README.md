@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasterPayLoad
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate and interested in anything computer science related. 
+- 💞️ I’m looking to collaborate and interested in anything computer science based. 
 - 📫 How to reach me N/A
 - 😄 Pronouns: Cheezus
 - ⚡ Fun fact: Praise God not Satan.
